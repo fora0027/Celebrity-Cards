@@ -1,0 +1,11 @@
+<main>
+               
+                <div class="row">
+                    <div class="col-xs-6 col-lg-4" ng-repeat="celebrities in allData.celebrities">
+                        <img ng-src='{{celebrities.picture}}'>
+                        <h2>{{celebrities.name}}</h2>
+                      
+                      <p><a class="btn btn-default" href="#/details/{{celebrities.id}}" role="button">View details &raquo;</a></p>
+                    </div><!--/.col-xs-6.col-lg-4-->
+                </div><!--/row-->
+            </main>

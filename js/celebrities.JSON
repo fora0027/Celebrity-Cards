@@ -1,0 +1,17 @@
+{"celebrities":[
+    {"id":1, "name":"Jessica Chastain", "birthYear":1977, "home": "Sacramento, California", "netWorth":12, "picture":"img/jessicachastain.jpg"},
+    {"id":2, "name":"Stephen Hawking", "birthYear":1942, "home": "Oxford, Oxfordshire", "netWorth":20, "picture":"img/stephenhawking.jpg"},
+    {"id":3, "name":"Eva Longoria", "birthYear":1975, "home": "Corpus Christi, Texas", "netWorth":35, "picture":"img/evalongoria.jpg"},
+    {"id":4, "name":"Johnny Depp", "birthYear":1963, "home": "Owensboro, Kentucky", "netWorth":400, "picture":"img/johnnydepp.jpg"},
+    {"id":5, "name":"Jaden Smith", "birthYear":1998, "home": "Malibu, California", "netWorth":8, "picture":"img/jadensmith.jpg"},
+    {"id":6, "name":"Tom Hardy", "birthYear":1977, "home": "Hammersmith, London", "netWorth":15, "picture":"img/tomhardy.jpg"},
+    {"id":7, "name":"Pierce Brosnan", "birthYear":1953, "home": "Drogheda, County Louth", "netWorth":80, "picture":"img/piercebrosnan.jpg"},
+    {"id":8, "name":"Natalya Rudakova", "birthYear":1985, "home": "Leningrad, Russia", "netWorth":5, "picture":"img/natalyarudakova.jpg"},
+    {"id":9, "name":"Nick Carter", "birthYear":1980, "home": "Jamestown, New York", "netWorth":35, "picture":"img/nickcarter.jpg"},
+    {"id":11, "name":"Natalie Portman", "birthYear":1981, "home": "Jerusalem, Israel", "netWorth":45, "picture":"img/natalieportman.jpg"},
+    {"id":12, "name":"Lamar Odom", "birthYear":1979, "home": "Jamaica, New York", "netWorth":56, "picture":"img/lamarodom.jpg"},
+    {"id":13, "name":"Barbra Streisand", "birthYear":1942, "home": "Williamsburg, Brooklyn", "netWorth":340, "picture":"img/barbrastreisand.jpg"},
+    {"id":14, "name":"Halle Berry", "birthYear":1966, "home": "Cleveland, Ohio", "netWorth":70, "picture":"img/halleberry.jpg"},
+    {"id":15, "name":"Franco Nero", "birthYear":1941, "home": "San Prospero Parmense, Emilia-Romagna", "netWorth":3, "picture":"img/franconero.jpg"},
+    {"id":10, "name":"Emma Thompson", "birthYear":1959, "home": "Paddington, London", "netWorth":64, "picture":"img/emmathompson.jpg"}
+]}
